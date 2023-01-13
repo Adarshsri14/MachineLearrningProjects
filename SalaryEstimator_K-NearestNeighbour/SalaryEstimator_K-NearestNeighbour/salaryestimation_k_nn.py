@@ -1,5 +1,3 @@
-# Day-4 | Salary Estimation | K-NEAREST NEIGHBOUR model
-
 ### *Importing Libraries*
 """
 
